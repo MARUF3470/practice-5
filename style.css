@@ -49,6 +49,14 @@
     border-radius: 10px;
 }
 
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #363958;
+
+}
+
 .price {
     font-weight: 900;
     font-size: 36px;
@@ -57,6 +65,21 @@
 
 .fa-bag-shopping {
     margin-right: 10px;
+}
+
+.text-color {
+    font-weight: 700;
+    font-size: 24px;
+    color: #363958;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #3E3E3E;
+
 }
 
 @media only screen and (max-width:576px) {
