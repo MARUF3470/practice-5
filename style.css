@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+.title-1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 80px;
+    color: #FA804C;
+}
+
+.title-2 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 80px;
+    color: #363958;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+.bg {
+    background: #FFF9F4;
+}
+
+.font {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title-3 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 48px;
+    color: #363958;
+
+}
+
+.card-bg {
+    background: #F1F1F1;
+    border-radius: 20px;
+}
+
+.btn-size {
+    width: 170px;
+    height: 60px;
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+
+.price {
+    font-weight: 900;
+    font-size: 36px;
+    color: #FA804C;
+}
+
+.fa-bag-shopping {
+    margin-right: 10px;
+}
+
+@media only screen and (max-width:576px) {
+    .direction {
+        flex-direction: column-reverse;
+    }
+}
